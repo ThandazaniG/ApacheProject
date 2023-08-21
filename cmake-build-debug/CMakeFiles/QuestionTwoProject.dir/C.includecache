@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thandazanig/CLionProjects/QuestionTwoProject/DynamicAlgorithm.cpp
+
+/Users/thandazanig/CLionProjects/QuestionTwoProject/IterativeAlgorithm.cpp
+
+/Users/thandazanig/CLionProjects/QuestionTwoProject/RecursiveAlgorithm.cpp
+
+/Users/thandazanig/CLionProjects/QuestionTwoProject/main.c
+stdio.h
+-
+DynamicAlgorithm.cpp
+/Users/thandazanig/CLionProjects/QuestionTwoProject/DynamicAlgorithm.cpp
+RecursiveAlgorithm.cpp
+/Users/thandazanig/CLionProjects/QuestionTwoProject/RecursiveAlgorithm.cpp
+IterativeAlgorithm.cpp
+/Users/thandazanig/CLionProjects/QuestionTwoProject/IterativeAlgorithm.cpp
+
