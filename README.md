@@ -1,4 +1,4 @@
-# Apache AGE Internship 2023 Coding Test – Question No.2
+## Apache AGE Internship 2023 Coding Test – Question No.2
 
 The project implements a recursive relation with three different algorithms
 
@@ -6,6 +6,7 @@ The project implements a recursive relation with three different algorithms
 
 The project implements the following piecewise recurrence relation in the 3 different ways.
 Investigates the differences (advantages, disadvantages) between the 3.
+
 F(n) = F(n-3) + F(n -2) where F(0) = 0, F(1) = 1, and F(2) = 2.
 
 ## Getting Started
